@@ -10,8 +10,5 @@
   "devDependencies": {
     "@nuxtjs/supabase": "^0.3.0",
     "nuxt": "^3.0.0"
-  },
-  "dependencies": {
-    "aws-amplify": "^5.0.8"
   }
 }
